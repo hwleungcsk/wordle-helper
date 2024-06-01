@@ -11,4 +11,6 @@ A small tool to help solving Wordle. Just one PHP and SQLite db file.
 Place PHP and SQLite file in the same folder.
 Make sure PHP SQLite extension is enabled.
 
- 
+### Screenshot
+
+![Screenshot](Screen.png)
